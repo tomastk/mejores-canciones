@@ -170,3 +170,64 @@ a {
 a.active {
   color: var(--verde-claro);
 }
+
+.index {
+  background-image: url('bg-image.jpg');
+  background-repeat: none;
+  background-size: cover;
+  background-position: center;
+  background-color: rgba(0, 0, 0, 1);
+  color: var(--verde-claro);
+  display: grid;
+  place-items: center;
+  min-height: 100vh;
+  position: relative;
+}
+  
+.index::before {
+  content    : "";
+  background : var(--negro);
+  display    : block;
+  position   : absolute;
+  opacity    : 0.9;
+  height: 100vh;
+  width: 100%;
+  z-index: 10;
+}
+
+.wrapper {
+  max-width: 50%;
+  margin: auto;
+  z-index: 20;
+}
+
+.wrapper .grid {
+  grid-template-columns: repeat(3, 1fr);
+  gap: 30px;
+}
+
+.wrapper h1 {
+  margin: 20px 0;
+  color: var(--verde-claro)
+}
+
+
+.genero {
+  padding: 40px;
+  background-color: var(--verde-claro);
+  text-align: center;
+  transition: all .3s;
+}
+
+.index .grid a {
+  display: block;
+  background: var(--verde-claro);
+  padding: 50px;
+  text-align: center;
+  font-size: 1.3rem;
+  font-weight: bold;
+}
+
+.index .grid a:hover{
+  background-color: var(--verde-oscuro);
+}
