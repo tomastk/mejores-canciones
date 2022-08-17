@@ -1,0 +1,67 @@
+CONTENIDO:
+
+GENEROS:
+
+Cumbia
+Rap
+Rock
+Kpop
+Reggaeton
+Trap
+
+CANCIONES:
+
+- Cumbia
+  1. Olvídala (Los Palmeras, Alex)
+  2. El Embrujo (Los Palmeras)
+  3. Cumbia Sobre el Mar (Los Palmeras)
+  4. Una Cerveza (Ráfaga)
+  5. Nunca me faltes (Antonio Ríos)
+  6. Llorarás más de mil veces (Leo Matioli)
+
+- Rap
+  1. Soy (Santa FÉ Klan, Marvel)
+  2. MAMA (Kidd Keo)
+  3. Residente BZRP Music Session (Bzrp, Residente)
+  4. Sigo esperando que vuelvas (MC Davo, Santa FÉ Klan)
+  5. Tierra Zanta (Trueno, Victor Heredia)
+  6. Lento (Santy P)
+
+- Rock
+  1. Un poco de amor francés (Patricio Rey y sus Redonditos de Ricota)
+  2. De música ligera (Soda Stereo)
+  3. Campanas en la noche (Los Tipitos)
+  4.  Reyes de la noche (Los guasones)
+  5. Nunca quise (Intoxicados)
+  6. Los 90's (Té de brujas)
+
+- Kpop
+  1. POP! (Nayeon)
+  2. Attention (NewJeans)
+  3. Run BTS (Bts)
+  4. Forever 1 (Girl's Generation)
+  5. Arson (jhope)
+  6. HypeBoys (New Jeans)
+
+- Reggaeton
+  1. Ven Bailalo (Angel y Khriz)
+  2. Rompe (Daddy Yankee)
+  3. Na de Na (Angel y Khriz)
+  4. Mi Vecinita (Plan B)
+  5. Sientelo (El Reja)
+  6. Danza Kuduro (Don Omar, Ludenzo)
+
+- Trap
+  1. Nena Maldición (Paulo Londra)
+  2. She don't give a FO (Duki)
+  3. No me llores (Duki)
+  4. Ella es una G (C.R.O, Duki)
+  5. Como le digo (Khea)
+  6. Si te lastimé (Seven Kayne)
+
+SPOTIFY COLOR PALLETE:
+
+- Verde Oscuro: #1db954
+- Verde Claro: #1ed760
+- Blanco: #ffffff
+- Negro: #191414
